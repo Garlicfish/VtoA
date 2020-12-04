@@ -1,0 +1,10 @@
+/.vscode
+/build
+/dist
+/downloader.py
+/gui.spec
+/test
+/test.py
+/test_ytb_dl.py
+/wget_test.py
+/__pycache__
